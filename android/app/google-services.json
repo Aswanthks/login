@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "723692071592",
+    "project_id": "dhanwisproject",
+    "storage_bucket": "dhanwisproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723692071592:android:194ef5f13f13a94760f09d",
+        "android_client_info": {
+          "package_name": "com.example.dhanwis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJfCYJoai3Cie_XfGY5BiHhAdtdWEoaOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
